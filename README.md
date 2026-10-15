@@ -36,6 +36,6 @@ ZeMA Hydraulic System Condition Monitoring Dataset.
 - app/ : Diagnostic console prototype dashboard
 - screenshots/ : Output images
 
-## Author
+## Authors
 
 Eurika Innah Alyza Estocapio,Bayer, Jemimah Bontigao, Marvin  Dela Cruz, Kurtdane Arleigh Lagunero, Gian Joshua Manangbao, Jathniel Quilang, Jeff Kervi Tangilag, Murphy
